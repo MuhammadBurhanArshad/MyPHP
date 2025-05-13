@@ -34,7 +34,7 @@ PHP (*Hypertext Preprocessor*) is a powerful **server-side scripting language** 
 ---
 
 ## 📚 **Learning Resources**
-- **YouTube Tutorials:** [PHP Tutorial Playlist by CodeWithHarry](https://www.youtube.com/playlist?list=PL0b6OzIxLPbyrzCMJOFzLnf_-_5E_dkzs)  
+- **YouTube Tutorials:** [PHP Tutorial Playlist by Yahoo Baba](https://www.youtube.com/playlist?list=PL0b6OzIxLPbyrzCMJOFzLnf_-_5E_dkzs)  
 - **PHP Manual:** [https://www.php.net/manual/en/](https://www.php.net/manual/en/)  
 - **Practice Platforms:** W3Schools, PHPGurukul, GeeksforGeeks  
 
