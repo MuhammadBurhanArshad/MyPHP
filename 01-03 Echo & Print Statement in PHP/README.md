@@ -17,10 +17,3 @@ Both `echo` and `print` are used to output data in PHP, but they have key differ
   ```php
   echo("Hello");  // Valid
   print("Hello"); // Valid
-
-  // echo can output multiple strings
-echo "This ", "is ", "a ", "test.";  // Works
-
-// print can only take one argument
-print "This is a test.";  // Works
-// print "This", "test";  // Error
