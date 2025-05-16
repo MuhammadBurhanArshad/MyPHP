@@ -47,7 +47,7 @@ PHP (*Hypertext Preprocessor*) is a powerful **server-side scripting language** 
    git clone https://github.com/MuhammadBurhanArshad/MyPHP.git
    ```
 2. Navigate to topic folders for code examples.
-3. Refer to `Notes/` for summarized concepts.
+3. Refer to `Notes/` and `Practice/` for summarized concepts.
 
 ---
 
