@@ -53,6 +53,7 @@ PHP (*Hypertext Preprocessor*) is a powerful **server-side scripting language** 
 
 ## 🔗 **Connect with Me**
 - **GitHub:** [@MuhamamdBurhanArshad](https://github.com/MuhammadBurhanArshad)  
+- **Linkedin:** [@MuhamamdBurhanArshad](https://pk.linkedin.com/in/muhammadburhanarshad)  
 
 ---
 
