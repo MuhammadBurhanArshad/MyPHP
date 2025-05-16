@@ -73,6 +73,8 @@ is_int($value);     // Returns true if integer
 is_array($value);   // Returns true if array
 is_object($value);  // Returns true if object
 is_null($value);    // Returns true if null
+
+var_dump($value);   // Return the datatype and value
 ```
 
 ### Type Conversion
