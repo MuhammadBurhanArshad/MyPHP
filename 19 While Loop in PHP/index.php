@@ -4,14 +4,14 @@
 $a = 1;
 
 while ($a <= 5) {
-    echo "The number is: $a\n";
+    echo "The number is: $a <br />";
     $a++;
 }
 
 $b = 5;
 
 while ($b >= 1) {
-    echo "The number is: $b\n";
+    echo "The number is: $b <br />";
     $b--;
 }
 
@@ -30,7 +30,7 @@ $num = 1;
 
 while ($num <= 10) {
     if ($num % 2 != 0) {
-        echo "Odd number: $num\n";
+        echo "Odd number: $num <br />";
     }
     $num++;
 }
