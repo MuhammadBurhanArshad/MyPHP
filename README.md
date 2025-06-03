@@ -2,7 +2,7 @@
 
 A curated collection of PHP notes, code examples, and projects as I learn PHP from scratch. This repo documents my journey in mastering server-side scripting with PHP.
 
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://www.php.net/images/logos/new-php-logo.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://www.php.net/" target="_blank"><img src="https://www.php.net/images/logos/new-php-logo.svg" width="400" alt="PHP Logo"></a></p>
 
 ---
 
