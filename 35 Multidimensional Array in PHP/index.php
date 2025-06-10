@@ -18,9 +18,9 @@ echo $products[0][2];
 
 // table via for loop
 
-for($row = 0; $row < 4; $row++) {
-    for($col = 0; $col < 4; $col++) {
-        echo $emp[$row][$col] . " ";
+for($row = 0; $row < 3; $row++) {
+    for($col = 0; $col < 3; $col++) {
+        echo $products[$row][$col] . " ";
     }
     echo "<br />";
 }
