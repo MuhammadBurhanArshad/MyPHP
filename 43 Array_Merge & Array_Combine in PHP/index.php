@@ -25,3 +25,24 @@ $newArray = $fruit + $veggie;
 echo "<pre>";
 print_r($newArray);
 echo "</pre>";
+
+// the array merge recursive make the array of the same key elements in array
+$newArray = array_merge_recursive($fruit, $veggie); // it will replace over the same keys preferring to second array's key value
+
+
+echo "<pre>";
+print_r($newArray);
+echo "</pre>";
+
+
+$name = ['burhan', 'salman', 'usman'];
+
+$age = [20, 22, 34];
+
+// array combine will make the first array as key and the second one is as value
+$newArray = array_combine($name, $age);
+
+
+echo "<pre>";
+print_r($newArray);
+echo "</pre>";
