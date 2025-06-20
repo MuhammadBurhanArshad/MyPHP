@@ -19,7 +19,7 @@ $array = [
 ];
 
 
-$newArray = array_column($array, 'first_name', id); // create the another array for the first name only, if we want to create the associative array so we can give the third parameter for key
+$newArray = array_column($array, 'first_name', 'id'); // create the another array for the first name only, if we want to create the associative array so we can give the third parameter for key
 
 echo "<pre>";
 print_r($newArray);
