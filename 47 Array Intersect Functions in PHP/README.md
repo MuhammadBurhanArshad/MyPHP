@@ -317,4 +317,4 @@ $result = array_uintersect(
 
 ## Version Compatibility
 
-Remember: All these functions are available since PHP 5.0, with consistent behavior across versions. The callback variants provide flexibility when the built-in comparison operators aren't sufficient for your needs.
+All these functions are available since PHP 5.0, with consistent behavior across versions. The callback variants provide flexibility when the built-in comparison operators aren't sufficient for your needs.
